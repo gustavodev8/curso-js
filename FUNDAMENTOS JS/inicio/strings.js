@@ -1,6 +1,6 @@
 const escola = "escolarizado"
 
-console.log (escola.charAt(2), escola.charAt(1))
+console.log (escola.charAt(2), escoalaa.charAt(1))
 
 console.log (escola.substring(0, 6))
 console.log (escola.substring(1))
